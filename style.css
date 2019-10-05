@@ -1,0 +1,19 @@
+.images{
+    display:flex;
+    transition:transform 1s;
+  }
+  .window{
+    border:5px solid rgb(199, 206, 205);
+    width:275px;
+    overflow:hidden;
+    margin-bottom:10px;
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+  }
+  .red{
+      color:rgb(235, 82, 62);
+  }
+  #buttons > button{
+      background: rgba(62, 156, 163, 0.288);
+      border: 1px solid rgb(199, 206, 205);
+      box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.75);
+  }
